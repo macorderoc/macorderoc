@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bienvenido a Mi Perfil de GitHub
 
-<!--
-**macorderoc/macorderoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Hola, soy Miguel Cordero, especialista en Observability en SPS. Me apasiona Cloud, automatizacion, infraestructura, desarrollo de codigo.
 
-Here are some ideas to get you started:
+## Mi Rol en SPS
+Consultor de Observabilidad especializado en plataformas cloud AWS y herramientas de monitoreo empresarial. Experiencia en implementación de integraciones de Datadog, observabilidad de infraestructura y aplicaciones, gestión de logs, monitoreo de servicios críticos, diseño de dashboards, definición de alertas y análisis de incidentes. Colaboración con equipos multidisciplinarios para mejorar la disponibilidad, confiabilidad y rendimiento de los servicios tecnológicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Expertise
+Monitoreo de plataformas cloud
+Observabilidad y métricas
+Gestión de logs y trazabilidad
+
+## Cómo Colaboro
+Me gusta trabajar por objetivos, e ir mas alla del problema y solucionarlo desde la raiz.
+
+## Contacto
+Correo Electrónico: macorderoc@spsolutions.com.mx
